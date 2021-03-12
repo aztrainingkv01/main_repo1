@@ -1,0 +1,3 @@
+[submodule "sub_repo1"]
+	path = sub_repo1
+	url = https://github.com/aztrainingkv01/sub_repo1.git
